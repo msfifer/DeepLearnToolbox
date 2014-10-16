@@ -1,4 +1,3 @@
-function test_example_DBN
 load mnist_uint8;
 
 train_x = double(train_x) / 255;
